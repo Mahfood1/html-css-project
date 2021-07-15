@@ -1,0 +1,30 @@
+.parent{
+font-size: 20px;
+width:100%;
+float: left;
+}
+
+.child-img{
+width:20%;
+float: left;
+}
+
+.child-paragraph{
+ width:60%;
+ margin:1%;
+ font-size: 22px;
+ border-radius: 20px;
+ float: left;
+ padding: 20px;
+}
+
+.child{
+    width:100%;
+    margin: 1%;
+}
+
+a{
+text-decoration: none;
+width: 30px;
+
+}
